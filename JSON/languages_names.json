@@ -1,0 +1,800 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "fr": "Chinois mandarin",
+            "ar": "الصينية الإيجازية",
+            "en": "Mandarin Chinese"
+        }
+    },
+    {
+        "id": 2,
+        "name": {
+            "fr": "Espagnol",
+            "ar": "الإسبانية",
+            "en": "Spanish"
+        }
+    },
+    {
+        "id": 3,
+        "fr": "Anglais",
+        "ar": "الإنجليزية",
+        "en": "English"
+    },
+    {
+        "id": 4,
+        "name": {
+            "fr": "Hindi",
+            "ar": "الهندية",
+            "en": "Hindi"
+        }
+    },
+    {
+        "id": 5,
+        "name": {
+            "fr": "Arabe",
+            "ar": "العربية",
+            "en": "Arabic"
+        }
+    },
+    {
+        "id": 6,
+        "name": {
+            "fr": "Bengali",
+            "ar": "البنغالية",
+            "en": "Bengali"
+        }
+    },
+    {
+        "id": 7,
+        "name": {
+            "fr": "Portugais",
+            "ar": "البرتغالية",
+            "en": "Portuguese"
+        }
+    },
+    {
+        "id": 8,
+        "name": {
+            "fr": "Russe",
+            "ar": "الروسية",
+            "en": "Russian"
+        }
+    },
+    {
+        "id": 9,
+        "name": {
+            "fr": "Japonais",
+            "ar": "اليابانية",
+            "en": "Japanese"
+        }
+    },
+    {
+        "id": 10,
+        "name": {
+            "fr": "Pendjabi occidental",
+            "ar": "البنجابية الغربية",
+            "en": "Western Punjabi"
+        }
+    },
+    {
+        "id": 11,
+        "name": {
+            "fr": "Allemand",
+            "ar": "الألمانية",
+            "en": "German"
+        }
+    },
+    {
+        "id": 12,
+        "name": {
+            "fr": "Javanais",
+            "ar": "الجاوية",
+            "en": "Javanese"
+        }
+    },
+    {
+        "id": 13,
+        "name": {
+            "fr": "Télougou",
+            "ar": "التيلوغو",
+            "en": "Telugu"
+        }
+    },
+    {
+        "id": 14,
+        "name": {
+            "fr": "Vietnamien",
+            "ar": "الفيتنامية",
+            "en": "Vietnamese"
+        }
+    },
+    {
+        "id": 15,
+        "name": {
+            "fr": "Coréen",
+            "ar": "الكورية",
+            "en": "Korean"
+        }
+    },
+    {
+        "id": 16,
+        "name": {
+            "fr": "Marathi",
+            "ar": "الماراثي",
+            "en": "Marathi"
+        }
+    },
+    {
+        "id": 17,
+        "name": {
+            "fr": "Tamil",
+            "ar": "التاميل",
+            "en": "Tamil"
+        }
+    },
+    {
+        "id": 18,
+        "name": {
+            "fr": "Turc",
+            "ar": "التركية",
+            "en": "Turkish"
+        }
+    },
+    {
+        "id": 19,
+        "name": {
+            "fr": "Français",
+            "ar": "الفرنسية",
+            "en": "French"
+        }
+    },
+    {
+        "id": 20,
+        "name": {
+            "fr": "Ourdou",
+            "ar": "الأردو",
+            "en": "Urdu"
+        }
+    },
+    {
+        "id": 21,
+        "name": {
+            "fr": "Italien",
+            "ar": "الإيطالية",
+            "en": "Italian"
+        }
+    },
+    {
+        "id": 22,
+        "name": {
+            "fr": "Égyptien",
+            "ar": "المصرية",
+            "en": "Egyptian Arabic"
+        }
+    },
+    {
+        "id": 23,
+        "name": {
+            "fr": "Yorouba",
+            "ar": "اليوروبا",
+            "en": "Yoruba"
+        }
+    },
+    {
+        "id": 24,
+        "name": {
+            "fr": "Hausa",
+            "ar": "الهاوسا",
+            "en": "Hausa"
+        }
+    },
+    {
+        "id": 25,
+        "name": {
+            "fr": "Amharique",
+            "ar": "الأمهرية",
+            "en": "Amharic"
+        }
+    },
+    {
+        "id": 26,
+        "name": {
+            "fr": "Pachto",
+            "ar": "البشتونية",
+            "en": "Pashto"
+        }
+    },
+    {
+        "id": 27,
+        "name": {
+            "fr": "Persan",
+            "ar": "الفارسية",
+            "en": "Persian"
+        }
+    },
+    {
+        "id": 28,
+        "name": {
+            "fr": "Hébreu",
+            "ar": "العبرية",
+            "en": "Hebrew"
+        }
+    },
+    {
+        "id": 29,
+        "name": {
+            "fr": "Laotien",
+            "ar": "اللاوية",
+            "en": "Lao"
+        }
+    },
+    {
+        "id": 30,
+        "name": {
+            "fr": "Ouzbek",
+            "ar": "الأوزبكية",
+            "en": "Uzbek"
+        }
+    },
+    {
+        "id": 31,
+        "name": {
+            "fr": "Grec",
+            "ar": "اليونانية",
+            "en": "Greek"
+        }
+    },
+    {
+        "id": 32,
+        "name": {
+            "fr": "Néerlandais",
+            "ar": "الهولندية",
+            "en": "Dutch"
+        }
+    },
+    {
+        "id": 33,
+        "name": {
+            "fr": "Tagalog",
+            "ar": "تاغالوغ",
+            "en": "Tagalog"
+        }
+    },
+    {
+        "id": 34,
+        "name": {
+            "fr": "Cebuano",
+            "ar": "سيبوانو",
+            "en": "Cebuano"
+        }
+    },
+    {
+        "id": 35,
+        "name": {
+            "fr": "Igbo",
+            "ar": "إيغبو",
+            "en": "Igbo"
+        }
+    },
+    {
+        "id": 36,
+        "name": {
+            "fr": "Guarani",
+            "ar": "غواراني",
+            "en": "Guarani"
+        }
+    },
+    {
+        "id": 37,
+        "name": {
+            "fr": "Hmong",
+            "ar": "همونغ",
+            "en": "Hmong"
+        }
+    },
+    {
+        "id": 38,
+        "name": {
+            "fr": "Zoulou",
+            "ar": "زولو",
+            "en": "Zulu"
+        }
+    },
+    {
+        "id": 39,
+        "name": {
+            "fr": "Kazakh",
+            "ar": "القزاقستانية",
+            "en": "Kazakh"
+        }
+    },
+    {
+        "id": 40,
+        "name": {
+            "fr": "Tigrinya",
+            "ar": "تيغرينيا",
+            "en": "Tigrinya"
+        }
+    },
+    {
+        "id": 41,
+        "name": {
+            "fr": "Tadjik",
+            "ar": "التاجيكية",
+            "en": "Tajik"
+        }
+    },
+    {
+        "id": 42,
+        "name": {
+            "fr": "Somali",
+            "ar": "الصومالية",
+            "en": "Somali"
+        }
+    },
+    {
+        "id": 43,
+        "name": {
+            "fr": "Yiddish",
+            "ar": "اليديش",
+            "en": "Yiddish"
+        }
+    },
+    {
+        "id": 44,
+        "name": {
+            "fr": "Birman",
+            "ar": "البورمية",
+            "en": "Burmese"
+        }
+    },
+    {
+        "id": 45,
+        "name": {
+            "fr": "Khmer",
+            "ar": "الخمر",
+            "en": "Khmer"
+        }
+    },
+    {
+        "id": 46,
+        "name": {
+            "fr": "Népalais",
+            "ar": "النيبالية",
+            "en": "Nepali"
+        }
+    },
+    {
+        "id": 47,
+        "name": {
+            "fr": "Assamais",
+            "ar": "الأسامية",
+            "en": "Assamese"
+        }
+    },
+    {
+        "id": 48,
+        "name": {
+            "fr": "Shona",
+            "ar": "شونا",
+            "en": "Shona"
+        }
+    },
+    {
+        "id": 49,
+        "name": {
+            "fr": "Sindhi",
+            "ar": "السندية",
+            "en": "Sindhi"
+        }
+    },
+    {
+        "id": 50,
+        "name": {
+            "fr": "Pashto du Nord",
+            "ar": "بشتونية شمالية",
+            "en": "Northern Pashto"
+        }
+    },
+    {
+        "id": 51,
+        "name": {
+            "fr": "Oromo",
+            "ar": "أورومو",
+            "en": "Oromo"
+        }
+    },
+    {
+        "id": 52,
+        "name": {
+            "fr": "Ouïghour",
+            "ar": "أويغورية",
+            "en": "Uyghur"
+        }
+    },
+    {
+        "id": 53,
+        "name": {
+            "fr": "Maïthili",
+            "ar": "ميثيلي",
+            "en": "Maithili"
+        }
+    },
+    {
+        "id": 54,
+        "name": {
+            "fr": "Hiligaynon",
+            "ar": "هيليغاينون",
+            "en": "Hiligaynon"
+        }
+    },
+    {
+        "id": 55,
+        "name": {
+            "fr": "Bhojpuri",
+            "ar": "بوجبوري",
+            "en": "Bhojpuri"
+        }
+    },
+    {
+        "id": 56,
+        "name": {
+            "fr": "Javanais occidental",
+            "ar": "جاوية غربية",
+            "en": "Western Javanese"
+        }
+    },
+    {
+        "id": 57,
+        "name": {
+            "fr": "Kannada",
+            "ar": "كانادا",
+            "en": "Kannada"
+        }
+    },
+    {
+        "id": 58,
+        "name": {
+            "fr": "Min Nan",
+            "ar": "مين نان",
+            "en": "Min Nan Chinese"
+        }
+    },
+    {
+        "id": 59,
+        "name": {
+            "fr": "Cingalais",
+            "ar": "السنغالية",
+            "en": "Sinhala"
+        }
+    },
+    {
+        "id": 60,
+        "name": {
+            "fr": "Tchèque",
+            "ar": "التشيكية",
+            "en": "Czech"
+        }
+    },
+    {
+        "id": 61,
+        "name": {
+            "fr": "Dinka",
+            "ar": "دينكا",
+            "en": "Dinka"
+        }
+    },
+    {
+        "id": 62,
+        "name": {
+            "fr": "Tswana",
+            "ar": "تسوانا",
+            "en": "Tswana"
+        }
+    },
+    {
+        "id": 63,
+        "name": {
+            "fr": "Kirghize",
+            "ar": "قيرغيزية",
+            "en": "Kyrgyz"
+        }
+    },
+    {
+        "id": 64,
+        "name": {
+            "fr": "Xhosa",
+            "ar": "كوسا",
+            "en": "Xhosa"
+        }
+    },
+    {
+        "id": 65,
+        "name": {
+            "fr": "Kamba",
+            "ar": "كامبا",
+            "en": "Kamba"
+        }
+    },
+    {
+        "id": 66,
+        "name": {
+            "fr": "Sindhi du Nord",
+            "ar": "سندية شمالية",
+            "en": "Northern Sindhi"
+        }
+    },
+    {
+        "id": 67,
+        "name": {
+            "fr": "Luyia",
+            "ar": "لويا",
+            "en": "Luyia"
+        }
+    },
+    {
+        "id": 68,
+        "name": {
+            "fr": "Kurde",
+            "ar": "كوردية",
+            "en": "Kurdish"
+        }
+    },
+    {
+        "id": 69,
+        "name": {
+            "fr": "Hausa du Nord",
+            "ar": "هاوسا شمالية",
+            "en": "Northern Hausa"
+        }
+    },
+    {
+        "id": 70,
+        "name": {
+            "fr": "Oromo du Sud",
+            "ar": "أورومو جنوبية",
+            "en": "Southern Oromo"
+        }
+    },
+    {
+        "id": 71,
+        "name": {
+            "fr": "Tigré",
+            "ar": "تيغري",
+            "en": "Tigre"
+        }
+    },
+    {
+        "id": 72,
+        "name": {
+            "fr": "Baloutche",
+            "ar": "بلوشية",
+            "en": "Balochi"
+        }
+    },
+    {
+        "id": 73,
+        "name": {
+            "fr": "Tswana du Sud",
+            "ar": "تسوانا جنوبية",
+            "en": "Southern Tswana"
+        }
+    },
+    {
+        "id": 74,
+        "name": {
+            "fr": "Kanouri",
+            "ar": "كانوري",
+            "en": "Kanuri"
+        }
+    },
+    {
+        "id": 75,
+        "name": {
+            "fr": "Telugu du Sud",
+            "ar": "تيلوغو جنوبية",
+            "en": "Southern Telugu"
+        }
+    },
+    {
+        "id": 76,
+        "name": {
+            "fr": "Ilocano",
+            "ar": "إيلوكانو",
+            "en": "Ilocano"
+        }
+    },
+    {
+        "id": 77,
+        "name": {
+            "fr": "Yoruba du Nord",
+            "ar": "يوروبا شمالية",
+            "en": "Northern Yoruba"
+        }
+    },
+    {
+        "id": 78,
+        "name": {
+            "fr": "Amharique du Sud",
+            "ar": "أمهرية جنوبية",
+            "en": "Southern Amharic"
+        }
+    },
+    {
+        "id": 79,
+        "name": {
+            "fr": "Ouïghour du Sud",
+            "ar": "أويغورية جنوبية",
+            "en": "Southern Uyghur"
+        }
+    },
+    {
+        "id": 80,
+        "name": {
+            "fr": "Tigrinya du Sud",
+            "ar": "تيغرينيا جنوبية",
+            "en": "Southern Tigrinya"
+        }
+    },
+    {
+        "id": 81,
+        "name": {
+            "fr": "Hmong du Sud",
+            "ar": "همونغ جنوبية",
+            "en": "Southern Hmong"
+        }
+    },
+    {
+        "id": 82,
+        "name": {
+            "fr": "Kazakh du Sud",
+            "ar": "قزاقستانية جنوبية",
+            "en": "Southern Kazakh"
+        }
+    },
+    {
+        "id": 83,
+        "name": {
+            "fr": "Laotien du Sud",
+            "ar": "لاوية جنوبية",
+            "en": "Southern Lao"
+        }
+    },
+    {
+        "id": 84,
+        "name": {
+            "fr": "Bengali du Sud",
+            "ar": "بنغالية جنوبية",
+            "en": "Southern Bengali"
+        }
+    },
+    {
+        "id": 85,
+        "name": {
+            "fr": "Pendjabi du Sud",
+            "ar": "بنجابية جنوبية",
+            "en": "Southern Punjabi"
+        }
+    },
+    {
+        "id": 86,
+        "name": {
+            "fr": "Marathi du Sud",
+            "ar": "ماراثي جنوبية",
+            "en": "Southern Marathi"
+        }
+    },
+    {
+        "id": 87,
+        "name": {
+            "fr": "Tamil du Sud",
+            "ar": "تاميل جنوبية",
+            "en": "Southern Tamil"
+        }
+    },
+    {
+        "id": 88,
+        "name": {
+            "fr": "Turc du Sud",
+            "ar": "تركية جنوبية",
+            "en": "Southern Turkish"
+        }
+    },
+    {
+        "id": 89,
+        "name": {
+            "fr": "Vietnamien du Sud",
+            "ar": "فيتنامية جنوبية",
+            "en": "Southern Vietnamese"
+        }
+    },
+    {
+        "id": 90,
+        "name": {
+            "fr": "Khmer du Sud",
+            "ar": "خمر جنوبية",
+            "en": "Southern Khmer"
+        }
+    },
+    {
+        "id": 91,
+        "name": {
+            "fr": "Népalais du Sud",
+            "ar": "نيبالية جنوبية",
+            "en": "Southern Nepali"
+        }
+    },
+    {
+        "id": 92,
+        "name": {
+            "fr": "Birman du Sud",
+            "ar": "بورمية جنوبية",
+            "en": "Southern Burmese"
+        }
+    },
+    {
+        "id": 93,
+        "name": {
+            "fr": "Shona du Sud",
+            "ar": "شونا جنوبية",
+            "en": "Southern Shona"
+        }
+    },
+    {
+        "id": 94,
+        "name": {
+            "fr": "Sindhi du Sud",
+            "ar": "سندية جنوبية",
+            "en": "Southern Sindhi"
+        }
+    },
+    {
+        "id": 95,
+        "name": {
+            "fr": "Pashto du Sud",
+            "ar": "بشتونية جنوبية",
+            "en": "Southern Pashto"
+        }
+    },
+    {
+        "id": 96,
+        "name": {
+            "fr": "Oromo du Nord",
+            "ar": "أورومو شمالية",
+            "en": "Northern Oromo"
+        }
+    },
+    {
+        "id": 97,
+        "name": {
+            "fr": "Kurde du Sud",
+            "ar": "كوردية جنوبية",
+            "en": "Southern Kurdish"
+        }
+    },
+    {
+        "id": 98,
+        "name": {
+            "fr": "Hausa du Sud",
+            "ar": "هاوسا جنوبية",
+            "en": "Southern Hausa"
+        }
+    },
+    {
+        "id": 99,
+        "name": {
+            "fr": "Yoruba du Sud",
+            "ar": "يوروبا جنوبية",
+            "en": "Southern Yoruba"
+        }
+    },
+    {
+        "id": 100,
+        "name": {
+            "fr": "Amharique du Nord",
+            "ar": "أمهرية شمالية",
+            "en": "Northern Amharic"
+        }
+    }
+]
